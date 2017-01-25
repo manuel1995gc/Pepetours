@@ -115,21 +115,6 @@
                     </div>
                 </div>
                 <div class="col-md-4 col-sm-6 portfolio-item">
-                    <a href="#portfolioModal5" class="portfolio-link" data-toggle="modal">
-                        <div class="portfolio-hover">
-                            <div class="portfolio-hover-content">
-                                <i class="fa fa-plus fa-3x"></i>
-                            </div>
-                        </div>
-                        <img src="img/portfolio/escape.png" class="img-responsive" alt="">
-                    </a>
-                    <div class="portfolio-caption">
-                        <h4>Hiking Rain Forest & Waterfall Tour</h4>
-                        <p class="text-muted">Duration: 5 Hours</p>
-                    </div>
-                </div>
-                
-                <div class="col-md-4 col-sm-6 portfolio-item">
                     <a href="#portfolioModal6" class="portfolio-link" data-toggle="modal">
                         <div class="portfolio-hover">
                             <div class="portfolio-hover-content">
@@ -210,6 +195,20 @@
                     </a>
                     <div class="portfolio-caption">
                         <h4>Cuyutlan Paradise Lagoon and Turtle Camp </h4>
+                        <p class="text-muted">Duration: 5 Hours</p>
+                    </div>
+                </div>
+                 <div class="col-md-4 col-sm-6 portfolio-item">
+                    <a href="#portfolioModal5" class="portfolio-link" data-toggle="modal">
+                        <div class="portfolio-hover">
+                            <div class="portfolio-hover-content">
+                                <i class="fa fa-plus fa-3x"></i>
+                            </div>
+                        </div>
+                        <img src="img/portfolio/escape.png" class="img-responsive" alt="">
+                    </a>
+                    <div class="portfolio-caption">
+                        <h4>Hiking Rain Forest & Waterfall Tour</h4>
                         <p class="text-muted">Duration: 5 Hours</p>
                     </div>
                 </div>
@@ -549,12 +548,12 @@
                             <p>Take a short walk to the picturesque village of Canoas to see how locals live their normal life.</p>
                             <p> Hike among the forest and larn about the flora, fauna and coffe bean plantations. Jump in the water of the crystal waterfalls. Lunch included</p>                 
                             <p>
-                          <h2> Tour Hours: </ h2>
+                          <h2> Tour Hours: </h2>
                             <ul>
                                 <li><strong>Daily</strong></li>
                                 <li>Duration of the Tour:<strong> 5 Hrs.</strong></li>
                                 <!--<li>Costo del Tour´s: <strong>$700.00 Pesos MX por persona .</strong></li>-->
-                            
+													</ul>
                             <button type="button" class="btn btn-primary" data-dismiss="modal"><i class="fa fa-times"></i> Close</button>
                         </div>
                     </div>
