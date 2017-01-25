@@ -140,7 +140,7 @@
                     </a>
                     <div class="portfolio-caption">
                         <h4>Horseback Riding</h4>
-                        <p class="text-muted">Duration:1 1/2 Hours</p>
+                        <p class="text-muted">Duration: 1 1/2 Hours</p>
                     </div>
                 </div>
                 <div class="col-md-4 col-sm-6 portfolio-item">
@@ -153,8 +153,8 @@
                         <img src="img/base_pep/9.8.jpg" class="img-responsive" alt="">
                     </a>
                     <div class="portfolio-caption">
-                        <h4>Canopy Tour (Tirolesa)</h4>
-                        <p class="text-muted">Duration: 4 Hours</p>
+                        <h4>Canopy Tour (Tyrolean)</h4>
+                        <p class="text-muted">Duration:4 Horas</p>
                     </div>
                 </div>
                 <div class="col-md-4 col-sm-6 portfolio-item">
@@ -168,7 +168,7 @@
                     </a>
                     <div class="portfolio-caption">
                         <h4>ATV</h4>
-                        <p class="text-muted">Duration: 4 Hours</p>
+                        <p class="text-muted">Duration: 3 Horas</p>
                     </div>
                 </div>
                 <div class="col-md-4 col-sm-6 portfolio-item">
@@ -181,7 +181,7 @@
                         <img src="img/base_pep/9.4.jpg" class="img-responsive" alt="">
                     </a>
                     <div class="portfolio-caption">
-                        <h4>Paseo por la Bahía</h4>
+                        <h4>Walk in the Bay</h4>
                         <p class="text-muted">Duration: 2 1/2 Hours</p>
                     </div>
                 </div>
@@ -195,7 +195,7 @@
                         <img src="img/base_pep/9.7.jpg" class="img-responsive" alt="">
                     </a>
                     <div class="portfolio-caption">
-                        <h4>Tour de Snarkeling</h4>
+                        <h4>Snorkeling Tour</h4>
                         <p class="text-muted">Duration: 2 Hours</p>
                     </div>
                 </div>
@@ -349,9 +349,9 @@
                             </p>
                             <p>On your way to downtown Manzanillo you will have  time for shopping and sightseeing.</p>
                             <p>
-                           <h2><!-- Precios y--> Horarios del Tour:</h2>
+                           <h2><!-- Precios y--> Tour Hours:</h2>
                             <ul>
-                                <li>Daily:<strong>10:00 AM ó 4:00 PM.</strong></li>
+                                <li>Daily:<strong>10:00 AM or 4:00 PM.</strong></li>
                                 <li>Duration of the Tour:<strong>3 Hrs.</strong></li>
                                <!-- <li>Costo del Tour´s:<strong>$300.00 Pesos MX por persona.</strong></li>-->
                             </ul>
@@ -377,7 +377,7 @@
                     <div class="col-lg-8 col-lg-offset-2">
                         <div class="modal-body">
                             <h2>Colima and Comala Colonial Tour</h2>
-                            <p class="item-intro text-muted"><strong>Tour Features..</strong></p>
+                            <p class="item-intro text-muted"><strong>Tour Features.</strong></p>
 <img class="img-responsive img-centered" id="estilo1" src="img/caracteristicas/7.jpg" alt="">
  <img class="img-responsive img-centered" src="img/caracteristicas/comala4.jpg" id="estilo1" alt="">
  <img class="img-responsive img-centered" src="img/caracteristicas/catedral%20de%20colima%20%20y%20palacio%20de%20gobierno.jpg" id="estilo1" alt="">
@@ -399,7 +399,7 @@
                             <ul>
                                 <li><strong>Tuesday through Sunday.</strong></li>
                                 <li>Duration of the Tour:<strong>8 Hrs.</strong></li>
-                                <li>It includes:<strong>Food and 2 Beverages.</strong></li>
+                                <li>Includes: <strong> Food and 2 Beverages.</strong></li>
                                 <!--<li>Costo del Tour´s: <strong>$900.00 Pesos MX por persona.</strong></li>-->
                             </ul>
                             <button type="button" class="btn btn-primary" data-dismiss="modal"><i class="fa fa-times"></i> Close</button>
@@ -439,7 +439,7 @@
                             <ul>
                                 <li><strong>Daily.</strong></li>
                                 <li>Duration of the Tour:<strong>4 Hrs.</strong></li>
-                                <li>It includes:<strong>Pizza and Refreshing Drink.</strong></li>
+                                <li>It includes:<strong>Pizza and refreshing drink.</strong></li>
                                 <!--<li>Costo del Tour´s: <strong>$750.00 Pesos MX por persona.</strong></li>-->
                             </ul>
                            
@@ -477,10 +477,10 @@
                             <h2><!-- Precios y--> Tour Hours:</h2>
                             <li><strong>Daily</strong></li>
                                 <li>Duration of the Tour:<strong> 5 Hrs.</strong></li>
-                                <li>It includes:<strong>Pizza and Refreshing Drink.</strong></li>
+                                <li>Includes: <strong> Pizza and Refreshing Drink.</strong></li>
                                 <!--<li>Costo del Tour´s por lancha: <strong>$750.00 Pesos MX.</strong></li>
                                 <li>Compartida: <strong>$750.00 Pesos MX por persona Minimo 6 personas.Maximo 8 personas</strong></li>-->
-                                <li>It includes: <strong>Equipment of Fishing, Bait, Ice, right of marine use, Transportation and Drinks</strong></li>
+                                <Li> Includes: <strong> Fishing Equipment, Bait, Ice, Marine Use Right, Transportation and Drinks </ strong> </ li>
                             <button type="button" class="btn btn-primary" data-dismiss="modal"><i class="fa fa-times"></i> Close</button>
                         </div>
                     </div>
@@ -516,8 +516,8 @@
                            <h2> <!--Precios y -->Tour Hours:</h2>
                             <ul>
                                 <li><strong>Daily</strong></li>
-                                <li>Duration of the Tour:<strong> 4 Hrs.</strong></li>
-                                <li>It includes:<strong>Pizza and refreshing drink.</strong></li>
+                                <li>Tour Duration:<strong> 4 Hrs.</strong></li>
+                                <li>Includes: <strong> Pizza and Refreshing Drink.</strong></li>
                                 <!--<li>Costo del Tour´s: <strong>$750.00 Pesos MX por persona minimo 3.</strong></li>-->
                             </ul>
                             <button type="button" class="btn btn-primary" data-dismiss="modal"><i class="fa fa-times"></i> Close</button>
@@ -549,7 +549,7 @@
                             <p>Take a short walk to the picturesque village of Canoas to see how locals live their normal life.</p>
                             <p> Hike among the forest and larn about the flora, fauna and coffe bean plantations. Jump in the water of the crystal waterfalls. Lunch included</p>                 
                             <p>
-                           <h2> Tour Hours:</h2>
+                          <h2> Tour Hours: </ h2>
                             <ul>
                                 <li><strong>Daily</strong></li>
                                 <li>Duration of the Tour:<strong> 5 Hrs.</strong></li>
@@ -585,7 +585,7 @@
                             <p>
                            <h2> Precios y Horarios del Tour:</h2>
                             <ul>
-                                <li><strong>Diarimente</strong></li>
+                                <li><strong>Daily</strong></li>
                                 <li>Duration of the Tour:<strong> 1 1/2 Hrs.</strong></li>
 															<!--<li>Costo del Tour´s: <strong>$500.00 Pesos MX Adultos $400.00 Pesos MX Niños.</strong></li>-->
                             <button type="button" class="btn btn-primary" data-dismiss="modal"><i class="fa fa-times"></i> Close</button>
@@ -610,17 +610,17 @@
                     <div class="col-lg-8 col-lg-offset-2">
                         <div class="modal-body">
                             <!-- Project Details Go Here -->
-                            <h2>Canopy Tour (Tirolesa)</h2>
+                            <h2>Canopy Tour (Tyrolean)</h2>
                             <p class="item-intro text-muted"><strong>Tour Features.</strong></p>
 <img class="img-responsive img-centered" src="img/caracteristicas/tirolesa.jpg" id="estilo1" alt="">
-                            <p>Crosses a<strong> suspension bridge</strong> And enjoy a <strong> hike.</strong></p>                          
-                            <P> Take the first <strong> Tyrolean </ strong> and feel the adrenaline rush through your veins as you slide from <strong> hill to hill </ strong>. </ P>
-                            <P>
+                            <P> Go through a <strong> suspension bridge </ strong> and enjoy a <strong> walk. </ Strong> </ p>
+                            <P> Take the first <strong> Tyrolean </ strong> and feel the adrenaline rush through your veins as you slide from <strong> hill to hill </ strong>. </p>                          
+                            <p>
                            <h2>Tour Hours:</h2>
                             <ul>
                                 <li><strong>Daily</strong></li>
                                 <li>Tour Duration:<strong> 4 Hrs.</strong></li>
-                                <li>Incluye:<strong>Pizza and refreshing drink.</strong></li>
+                                <li>It includes:<strong>Pizza and refreshing drink.</strong></li>
                                 <!--<li>Costo del Tour´s: <strong>$000.00 Pesos MX por persona.</strong></li>-->
                             <button type="button" class="btn btn-primary" data-dismiss="modal"><i class="fa fa-times"></i> Close</button>
                         </div>
@@ -655,7 +655,7 @@
                              <h2>Horarios del Tour:</h2>
                             <ul>
                                
-                                <li><strong>Daily: 8:45 AM o 2:45 PM</strong></li>
+                                <li><strong>Daily: 8:45 AM or 2:45 PM</strong></li>
                                 <li>Duration of Tour:<strong> 3 Hrs.</strong></li>
                                <!-- <li>Costo del Tour´s: <strong>$700.00 Pesos MX por persona .</strong></li>-->
                             
@@ -683,12 +683,14 @@
                             <h2>Walk in the Bay</h2>
                             <p class="item-intro text-muted"><strong>Tour Features.</strong></p>
 <img class="img-responsive img-centered" src="img/caracteristicas/melaque.jpg" id="estilo1" alt="">
-                            <P> Tour in <strong> Boat </ strong> panoramica. <Strong> Beach </ strong> exit of the <strong> Audience </ strong> with Visored </ strong> time </ strong>
+                            <P> Tour in <strong> Boat </ strong> Panorama. <Strong> Beach </ strong> exit of the <strong> Audience </ strong> with Visored </ strong> time </ strong>
                              <H2> Tour Hours: </ h2>
-                            <Ul>
+                            <ul>
                                 <li><strong>Daily: 2:30 PM</strong></li>
-                                <li>Duration of the Tour:<strong> 2 1/2 Hrs.</strong></li>
+                                <li>Duration of Tour:<strong> 2 1/2 Hrs.</strong></li>
                                 <!--<li>Costo del Tour´s: <strong>$300.00 Pesos MX por persona.</strong></li>-->
+											</ul>
+                           
                             <button type="button" class="btn btn-primary" data-dismiss="modal"><i class="fa fa-times"></i> Close</button>
                         </div>
                     </div>
@@ -696,6 +698,9 @@
             </div>
         </div>
     </div>
+			</div>
+			</div>
+	</div>
      <!-- Portfolio Modal 8 -->
     <div class="portfolio-modal modal fade" id="portfolioModal11" tabindex="-1" role="dialog" aria-hidden="true">
         <div class="modal-content">
@@ -710,14 +715,14 @@
                     <div class="col-lg-8 col-lg-offset-2">
                         <div class="modal-body">
                             <!-- Project Details Go Here -->
-                            <h2>Snorkeling Tour</h2>
+                            <h2>Tour de Snorkeling</h2>
                             <p class="item-intro text-muted"><strong>Tour Features.</strong></p>
 <img class="img-responsive img-centered" src="img/caracteristicas/ISLA_MUJERES_PUEBLO_M%C3%81GICO_4.jpg" id="estilo1" alt="">
-                           <P> Take the boat that will take you to the coral gardens or the ship Sinking depending on the visibility, passing the Elephant Rock enjoying the marine world </ p>
+                            <P> Take the boat that will take you to the coral gardens or the ship Sinking depending on the visibility, passing the Elephant Rock enjoying the marine world </ p>
                              <H2> Tour Hours: </ h2>
-                            <ul>
+                            <Ul>
                                 <li><strong>Daily: 9:30 PM</strong></li>
-                                <li>Duration of the Tour:<strong> 2  Hrs.</strong></li>
+                                <li>Duration of Tour:<strong> 2  Hrs.</strong></li>
                                 <!--<li>Costo del Tour´s: <strong>$500.00 Pesos MX por persona Minimo 4.</strong></li>-->
                             
                             <button type="button" class="btn btn-primary" data-dismiss="modal"><i class="fa fa-times"></i> Close</button>
