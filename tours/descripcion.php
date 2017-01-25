@@ -344,7 +344,7 @@
                         <div class="modal-body">
                             <!-- Project Details Go Here -->
                             <h2>Manzanillo y Compras</h2>
-                            <p class="item-intro text-muted"><strong>Características y costos del Tour´s.</strong></p>
+                            <p class="item-intro text-muted"><strong>Características del Tour.</strong></p>
                             <img class="img-responsive img-centered" id="estilo1" src="img/caracteristicas/1.jpg" alt="">
                             <img class="img-responsive img-centered" id="estilo1" src="img/caracteristicas/2.jpg" alt="">
                             <p>Salimos del Hotel para da un recorrido por los <strong>lugares mas interesantes de manzanillo</strong>, con tiempo para tomar<strong> fotografias</strong> en el mirador de la <strog>peninsula de santiago</strog> acompañado con un guía <strong>bilingüe</strong> infomando a los pasajeros todo lo referente al area a la que se les llevo.</p>
@@ -354,11 +354,11 @@
                             Ademas de una <strong>hermosa plaza con un kiosko y un malecón</strong> a su disposición.
                             </p>
                             <p>
-                           <h2> Precios y Horarios del Tour´s:</h2>
+                           <h2>Horarios del Tour:</h2>
                             <ul>
                                 <li>Diariamente:<strong>10:00 AM ó 4:00 PM.</strong></li>
-                                <li>Duración del Tour´s:<strong>3 Hrs.</strong></li>
-                                <li>Costo del Tour´s:<strong>$300.00 Pesos MX por persona.</strong></li>
+                                <li>Duración del Tour:<strong>3 Hrs.</strong></li>
+                                <!--<li>Costo del Tour´s:<strong>$300.00 Pesos MX por persona.</strong></li>-->
                             </ul>
                             <button type="button" class="btn btn-primary" data-dismiss="modal"><i class="fa fa-times"></i> Cerrar</button>
                         </div>
@@ -382,7 +382,7 @@
                     <div class="col-lg-8 col-lg-offset-2">
                         <div class="modal-body">
                             <h2>Comala y Colima</h2>
-                            <p class="item-intro text-muted"><strong>Características y costos del Tour´s.</strong></p>
+                            <p class="item-intro text-muted"><strong>Características Tour.</strong></p>
 <img class="img-responsive img-centered" id="estilo1" src="img/caracteristicas/7.jpg" alt="">
  <img class="img-responsive img-centered" src="img/caracteristicas/comala4.jpg" id="estilo1" alt="">
  <img class="img-responsive img-centered" src="img/caracteristicas/catedral%20de%20colima%20%20y%20palacio%20de%20gobierno.jpg" id="estilo1" alt="">
@@ -400,12 +400,12 @@
                             En el pintoresco pueblo de<strong> Comala</strong>, enmascarado por los <strong>Volcanes</strong>, disfrutando de una<strong> comida regional</strong> en un restaurante local acompañado de dos bebidas<strong> (Cerveza o Refresco)</strong>.
                             </p>
                             <p>
-                           <h2> Precios y Horarios del Tour´s:</h2>
+                           <h2>Horarios del Tour:</h2>
                             <ul>
                                 <li><strong>Martes a Domingo.</strong></li>
-                                <li>Duracion del Tour´s:<strong>8 Hrs.</strong></li>
+                                <li>Duracion del Tour:<strong>8 Hrs.</strong></li>
                                 <li>Incluye:<strong>Comida y 2 Bebidas.</strong></li>
-                                <li>Costo del Tour´s: <strong>$900.00 Pesos MX por persona.</strong></li>
+                                <!--<li>Costo del Tour´s: <strong>$900.00 Pesos MX por persona.</strong></li>-->
                             </ul>
                             <button type="button" class="btn btn-primary" data-dismiss="modal"><i class="fa fa-times"></i> Cerrar</button>
                         </div>
@@ -430,7 +430,7 @@
                         <div class="modal-body">
                             <!-- Project Details Go Here -->
                             <h2>Barra de Navidad</h2>
-                            <p class="item-intro text-muted"><strong>Características y costos del Tour´s.</strong></p>
+                            <p class="item-intro text-muted"><strong>Características Tour.</strong></p>
 <img class="img-responsive img-centered" id="estilo1" src="../tours/img/caracteristicas/3.JPG" alt="">
 <img class="img-responsive img-centered"  id="estilo1" src="../tours/img/caracteristicas/5.jpg" alt="">
 <img class="img-responsive img-centered"  id="estilo1" src="../tours/img/caracteristicas/platanos.jpg" alt="">
@@ -439,12 +439,12 @@
                            </p>
 
                             <p>
-                           <h2> Precios y Horarios del Tour´s:</h2>
+                           <h2>Horarios del Tour:</h2>
                             <ul>
                                 <li><strong>Diariamente.</strong></li>
-                                <li>Duracion del Tour´s:<strong>4 Hrs.</strong></li>
+                                <li>Duracion del Tour:<strong>4 Hrs.</strong></li>
                                 <li>Incluye:<strong>Pizza y Bebida refrescante.</strong></li>
-                                <li>Costo del Tour´s: <strong>$750.00 Pesos MX por persona.</strong></li>
+                               <!-- <li>Costo del Tour´s: <strong>$750.00 Pesos MX por persona.</strong></li>-->
                             </ul>
                            
                             <button type="button" class="btn btn-primary" data-dismiss="modal"><i class="fa fa-times"></i> Cerrar</button>
@@ -469,14 +469,17 @@
                         <div class="modal-body">
                             <!-- Project Details Go Here -->
                             <h2>Pesca Deportiva</h2>
-                            <p class="item-intro text-muted"><strong>Características y costos del Tour´s.</strong></p>
+                            <p class="item-intro text-muted"><strong>Características Tour.</strong></p>
                             <img class="img-responsive img-centered" src="../tours/img/caracteristicas/barco.jpg" id="estilo1" alt="">
                             <p>Daremos un recorrido por la laguna de Santiago, subiremos a la Montaña donde podremos observar las 2 Bahías de Manzanillo "Capital Mundial del Pez Vela" y en donde además, podrás pescar (Marlín,Dorado,Wahoo,Atún,Etc.</p>
+                            
+                            <h2> Horarios del Tour:</h2>
+													
                             <li><strong>Diarimente</strong></li>
-                                <li>Duracion del Tour´s:<strong> 5 Hrs.</strong></li>
+                                <li>Duracion del Tour:<strong> 5 Hrs.</strong></li>
                                 <li>Incluye:<strong>Pizza y Bebida refrescante.</strong></li>
-                                <li>Costo del Tour´s por lancha: <strong>$750.00 Pesos MX.</strong></li>
-                                <li>Compartida: <strong>$750.00 Pesos MX por persona Minimo 6 personas.Maximo 8 personas</strong></li>
+                               <!-- <li>Costo del Tour´s por lancha: <strong>$750.00 Pesos MX.</strong></li>
+                                <li>Compartida: <strong>$750.00 Pesos MX por persona Minimo 6 personas.Maximo 8 personas</strong></li>-->
                                 <li>Incluye: <strong>Equipo de Pesca, Carnada, Hielo,derecho de uso de marina,Transportación y Bebidas.</strong></li>
                             <button type="button" class="btn btn-primary" data-dismiss="modal"><i class="fa fa-times"></i> Cerrar</button>
                         </div>
@@ -501,17 +504,17 @@
                         <div class="modal-body">
                             <!-- Project Details Go Here -->
                             <h2>Cuyutlan (Tortugario)</h2>
-                            <p class="item-intro text-muted"><strong>Características y costos del Tour´s.</strong></p>
+                            <p class="item-intro text-muted"><strong>Características del Tour.</strong></p>
 <img class="img-responsive img-centered" src="img/caracteristicas/tortugas_tortugario-850x468.jpg" id="estilo1" alt="">
 <img class="img-responsive img-centered" src="img/caracteristicas/iguana%20cuyutlan%20tortugario.jpg" id="estilo1" alt="">
                             <p>Visita al Campamento de Tortugas, Iguanas, paseo en <strong>Lancha</strong> por los<strong> Manglares</strong>,<strong> Variedad de Aves</strong>.</p>                          
                             <p>
-                           <h2> Precios y Horarios del Tour´s:</h2>
+                           <h2> Horarios del Tour:</h2>
                             <ul>
                                 <li><strong>Diarimente</strong></li>
-                                <li>Duracion del Tour´s:<strong> 4 Hrs.</strong></li>
+                                <li>Duracion del Tour:<strong> 4 Hrs.</strong></li>
                                 <li>Incluye:<strong>Pizza y Bebida refrescante.</strong></li>
-                                <li>Costo del Tour´s: <strong>$750.00 Pesos MX por persona minimo 3.</strong></li>
+                               <!-- <li>Costo del Tour´s: <strong>$750.00 Pesos MX por persona minimo 3.</strong></li>-->
                             </ul>
                             <button type="button" class="btn btn-primary" data-dismiss="modal"><i class="fa fa-times"></i> Cerrar</button>
                         </div>
@@ -537,15 +540,15 @@
                         <div class="modal-body">
                             <!-- Project Details Go Here -->
                             <h2>Cascada en el Pueblo de Canoas (Sierra Rural)</h2>
-                            <p class="item-intro text-muted"><strong>Características y costos del Tour´s.</strong></p>
+                            <p class="item-intro text-muted"><strong>Características del Tour.</strong></p>
                             <img class="img-responsive img-centered" id="estilo1" src="img/portfolio/escape-preview.png" alt="">
                             <p>Descubre la belleza de la<strong> vegetación</strong> exuberante en una<strong> comunidad rural</strong> pintoresca, conozca sus<strong> costumbres</strong> y disfrute de un<strong> balneario con una cascada</strong>.</p>                          
                             <p>
-                           <h2> Precios y Horarios del Tour´s:</h2>
+                           <h2> Horarios del Tour:</h2>
                             <ul>
                                 <li><strong>Diarimente</strong></li>
-                                <li>Duracion del Tour´s:<strong> 5 Hrs.</strong></li>
-                                <li>Costo del Tour´s: <strong>$700.00 Pesos MX por persona .</strong></li>
+                                <li>Duracion del Tour:<strong> 5 Hrs.</strong></li>
+                                <!--<li>Costo del Tour´s: <strong>$700.00 Pesos MX por persona .</strong></li>-->
                             
                             <button type="button" class="btn btn-primary" data-dismiss="modal"><i class="fa fa-times"></i> Cerrar</button>
                         </div>
@@ -570,16 +573,16 @@
                         <div class="modal-body">
                             <!-- Project Details Go Here -->
                             <h2>Paseo a Caballo</h2>
-                            <p class="item-intro text-muted"><strong>Características y costos del Tour´s.</strong></p>
+                            <p class="item-intro text-muted"><strong>Características del Tour.</strong></p>
                             <img class="img-responsive img-centered" id="estilo1" src="img/caracteristicas/paseo-a-caballo-playa-larga-manzanillo.jpg" alt="">
                             <img class="img-responsive img-centered" id="estilo1" src="img/caracteristicas/57cbc263paseo-a-caballo-en-la-selva.jpg" alt="">
                             <p>Daremos un recorrido por la <strong>laguna de Santiago</strong>, subiremos a la montaña donde podremos observar las <strong>2 bahías gemelas</strong>, más tarde bajaremos a la playa donde podrá<strong> galopar</strong> en la arena de la playa. Usted decide el Horario</p>                          
                             <p>
-                           <h2> Precios y Horarios del Tour´s:</h2>
+                           <h2> Horarios del Tour:</h2>
                             <ul>
                                 <li><strong>Diarimente</strong></li>
-                                <li>Duracion del Tour´s:<strong> 1 1/2 Hrs.</strong></li>
-															<li>Costo del Tour´s: <strong>$500.00 Pesos MX Adultos $400.00 Pesos MX Niños.</strong></li>
+                                <li>Duracion del Tour:<strong> 1 1/2 Hrs.</strong></li>
+															<!--<li>Costo del Tour´s: <strong>$500.00 Pesos MX Adultos $400.00 Pesos MX Niños.</strong></li>-->
                             <button type="button" class="btn btn-primary" data-dismiss="modal"><i class="fa fa-times"></i> Cerrar</button>
                         </div>
                     </div>
@@ -603,17 +606,17 @@
                         <div class="modal-body">
                             <!-- Project Details Go Here -->
                             <h2>Canopy Tour (Tirolesa)</h2>
-                            <p class="item-intro text-muted"><strong>Caracteristicas y costos del Tour´s.</strong></p>
+                            <p class="item-intro text-muted"><strong>Caracteristicas del Tour.</strong></p>
 <img class="img-responsive img-centered" src="img/caracteristicas/tirolesa.jpg" id="estilo1" alt="">
                             <p>Atraviesa un<strong> puente colgante</strong> y disfruta de una <strong> caminata.</strong></p>                          
                             <p>Toma la primera<strong> Tirolesa</strong> y siente la adrenalina correr por tus venas al deslizarte de<strong> cerro a cerro</strong>.</p>                          
                             <p>
-                           <h2> Precios y Horarios del Tour´s:</h2>
+                           <h2> Horarios del Tour:</h2>
                             <ul>
                                 <li><strong>Diarimente</strong></li>
-                                <li>Duracion del Tour´s:<strong> 4 Hrs.</strong></li>
+                                <li>Duracion del Tour:<strong> 4 Hrs.</strong></li>
                                 <li>Incluye:<strong>Pizza y Bebida refrescante.</strong></li>
-                                <li>Costo del Tour´s: <strong>$000.00 Pesos MX por persona.</strong></li>
+                                <!--<li>Costo del Tour´s: <strong>$000.00 Pesos MX por persona.</strong></li>-->
                             <button type="button" class="btn btn-primary" data-dismiss="modal"><i class="fa fa-times"></i> Cerrar</button>
                         </div>
                     </div>
@@ -636,7 +639,7 @@
                         <div class="modal-body">
                             <!-- Project Details Go Here -->
                             <h2>Cuatrimotos</h2>
-                            <p class="item-intro text-muted"><strong>Caracteristicas y costos del Tour´s.</strong></p>
+                            <p class="item-intro text-muted"><strong>Caracteristicas del Tour.</strong></p>
 <img class="img-responsive img-centered" src="img/caracteristicas/cuatrimoto1.jpg" id="estilo1" alt="">
 <img class="img-responsive img-centered" src="img/caracteristicas/cuatrimoto2.jpg" id="estilo1" alt="">
 <img class="img-responsive img-centered" src="img/caracteristicas/cuatrimoto3.jpg" id="estilo1" alt="">
@@ -644,11 +647,11 @@
                            
                             <p>Gran Tour de <strong>aventura</strong>, diviértete y experimenta la emocion de una<strong> cuatrimoto semiautomática</strong> fácil de manejar.</p>
                             <p>Siga al líder de la caravana a lo largo de la<strong> montaña</strong> y disfrute de las<strong> dunas</strong> en la playa<strong> Peña Blanca</strong>.</p>
-                             <h2> Precios y Horarios del Tour´s:</h2>
+                             <h2> Horarios del Tour:</h2>
                             <ul>
                                 <li><strong>Diarimente: 8:45 AM o 2:45 PM</strong></li>
-                                <li>Duracion del Tour´s:<strong> 3 Hrs.</strong></li>
-                                <li>Costo del Tour´s: <strong>$700.00 Pesos MX por persona .</strong></li>
+                                <li>Duracion del Tour:<strong> 3 Hrs.</strong></li>
+                               <!-- <li>Costo del Tour´s: <strong>$700.00 Pesos MX por persona .</strong></li>-->
                             
                             <button type="button" class="btn btn-primary" data-dismiss="modal"><i class="fa fa-times"></i> Cerrar</button>
                         </div>
@@ -672,14 +675,14 @@
                         <div class="modal-body">
                             <!-- Project Details Go Here -->
                             <h2>Paseo por la Bahia</h2>
-                            <p class="item-intro text-muted"><strong>Caracteristicas y costos del Tour´s.</strong></p>
+                            <p class="item-intro text-muted"><strong>Caracteristicas del Tour.</strong></p>
 <img class="img-responsive img-centered" src="img/caracteristicas/melaque.jpg" id="estilo1" alt="">
                             <p>Recorrido en<strong> Embarcacion</strong> panoramica. Salida de la<strong> playa</strong> de la<strong> Audiencia</strong> con tiempo de <strong>Visoreó</strong></p>
-                             <h2> Precios y Horarios del Tour´s:</h2>
+                             <h2> Horarios del Tour:</h2>
                             <ul>
                                 <li><strong>Diarimente: 2:30 PM</strong></li>
-                                <li>Duracion del Tour´s:<strong> 2 1/2 Hrs.</strong></li>
-                                <li>Costo del Tour´s: <strong>$300.00 Pesos MX por persona.</strong></li>
+                                <li>Duracion del Tour:<strong> 2 1/2 Hrs.</strong></li>
+                                <!--<li>Costo del Tour´s: <strong>$300.00 Pesos MX por persona.</strong></li>-->
                             <button type="button" class="btn btn-primary" data-dismiss="modal"><i class="fa fa-times"></i> Cerrar</button>
                         </div>
                     </div>
@@ -702,14 +705,14 @@
                         <div class="modal-body">
                             <!-- Project Details Go Here -->
                             <h2>Tour de Snorkeling</h2>
-                            <p class="item-intro text-muted"><strong>Caracteristicas y costos del Tour´s.</strong></p>
+                            <p class="item-intro text-muted"><strong>Caracteristicas  Tour.</strong></p>
 <img class="img-responsive img-centered" src="img/caracteristicas/ISLA_MUJERES_PUEBLO_M%C3%81GICO_4.jpg" id="estilo1" alt="">
                             <p>Toma la lancha que te llevará hasta los jardines del coral o el barco Hundido dependiendo de la visibilidad, pasando por la Roca del Elefante disfrutando del mundo Marino</p>
-                             <h2> Precios y Horarios del Tour´s:</h2>
+                             <h2> Horarios del Tour:</h2>
                             <ul>
                                 <li><strong>Diarimente: 9:30 PM</strong></li>
-                                <li>Duracion del Tour´s:<strong> 2  Hrs.</strong></li>
-                                <li>Costo del Tour´s: <strong>$500.00 Pesos MX por persona Minimo 4.</strong></li>
+                                <li>Duracion del Tour:<strong> 2  Hrs.</strong></li>
+                                <!--<li>Costo del Tour´s: <strong>$500.00 Pesos MX por persona Minimo 4.</strong></li>-->
                             
                             <button type="button" class="btn btn-primary" data-dismiss="modal"><i class="fa fa-times"></i> Cerrar</button>
                         </div>
