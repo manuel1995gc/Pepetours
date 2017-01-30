@@ -219,9 +219,43 @@
                 
                 
             </div>
+                    <a href="../index_ingles.html" class="btn-xl">To return</a>
         </div>
-        <a href="../index_ingles.html" class="btn-xl">To return</a>
+
+        <div class="col-lg-8 col-lg-offset-2 text-center">
+     <div class="col-md-12">
+                    
+                    <h2 class="service-heading">
+                   <strong> Contact information:</strong>
+                    </h2>
+										 <p class="text-muted">
+									<strong>	 Urano No.9 Fracc.La Joya 1.</strong>
+										 </p>
+										 <p class="text-muted">
+									<strong>Salagua Manzanillo,Col,Mx.</strong>
+										 </p>
+										 <p class="text-muted">
+											<strong> C.P. 28869.</strong>
+                   </p>
+                    
+
+                </div>
+	</div>
     </section>
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
 
    
     <!-- Clients Aside -->
@@ -301,18 +335,20 @@
     </section>
 -->
     <footer>
+        <span class="copyright">Copyright &copy; Pepetours 2017</span>
         <div class="container">
             <div class="row">
+               
                 <div class="col-md-4">
-                    <span class="copyright">Copyright &copy; Pepetours 2017</span>
+                   
                 </div>
                 <div class="col-md-4">
                     <ul class="list-inline social-buttons">
-                        <li><a href="#"><i class="fa fa-twitter"></i></a>
+                      <!--  <li><a href="#"><i class="fa fa-twitter"></i></a>-->
                         </li>
-                        <li><a href="#"><i class="fa fa-facebook"></i></a>
+                      <!--  <li><a href="#"><i class="fa fa-facebook"></i></a> -->
                         </li>
-                        <li><a href="#"><i class="fa fa-linkedin"></i></a>
+                     <!--   <li><a href="#"><i class="fa fa-mail"></i></a> -->
                         </li>
                     </ul>
                 </div>
