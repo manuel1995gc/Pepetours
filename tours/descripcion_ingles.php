@@ -42,9 +42,9 @@
                     <h4 class="section-heading"><i>General information:</i></h4>                    
                     <p class="section-subheading text-muted">
                     	<li class="text-muted"><strong>Children under 3 years free.</strong></li>
-                    	<li class="text-muted"><strong>Pagos en Efectivo</strong></li>
-                    	<li class="text-muted"><strong>In our prices this tax and VAT is included</strong></li>
-                    	<li class="text-muted"><strong>All our tours include Traveler's Insurance</strong></li>
+                    	<li class="text-muted"><strong>Cash Payments.</strong></li>
+                    	<li class="text-muted"><strong>In our prices this tax and VAT is included.</strong></li>
+                    	<li class="text-muted"><strong>All our tours include Traveler's Insurance.</strong></li>
                     </p>
      <!-- Ofertas Imagen-->               
                     
